@@ -40,19 +40,3 @@ financeiro de R$ (22.997,7 / 1000) * 29 = 666,93
 • R$ 999 – 666,93 = 332,07.
 • Tudo depende dos valores, pontuações, bonificações e valores conseguidos
 na venda das milhas.
-
--- Faça um sistema em C que consiste em um menu com os seguintes itens: --
-
--> 1. Fazer simulação
-• O usuário entra com os dados necessários para simular por quanto um dado produto
-sairia utilizando a estratégia apresentada anteriormente, e o sistema realiza os
-cálculos da simulação
-• Ao final da simulação, o sistema pergunta se o usuário desejar salvar aquela
-simulação e armazena em arquivo a simulação caso o usuário opte por salvá-la para
-posterior consulta
-
--> 2. Visualizar simulações salvas
-• Este item lê todo o conteúdo do arquivo, i.e. as simulações salvas, e exibe para o
-usuário, para fins de consulta
-
--> 3. Sair
